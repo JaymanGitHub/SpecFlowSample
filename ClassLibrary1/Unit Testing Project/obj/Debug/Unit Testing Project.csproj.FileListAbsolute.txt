@@ -1,0 +1,4 @@
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\Unit Testing Project\bin\Debug\Unit Testing Project.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\Unit Testing Project\bin\Debug\Unit Testing Project.pdb
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\Unit Testing Project\obj\Debug\Unit Testing Project.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\Unit Testing Project\obj\Debug\Unit Testing Project.pdb

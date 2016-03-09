@@ -1,0 +1,11 @@
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Unit Testing Project.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Unit Testing Project.pdb
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\zhan9999\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
